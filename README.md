@@ -1,6 +1,6 @@
 # DEX - Liquidity Pool (AMM) - INCOMPLETE
 
-Incomplete Automated Market Market Dex. 
+It is an incomplete Automated Market Market Dex. 
 
 Missing parts:
 * Make sure when LP adds liquidity, the ratio TokenA/TokenB is respected
